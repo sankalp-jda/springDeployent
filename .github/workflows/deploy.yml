@@ -29,6 +29,6 @@ jobs:
           image: sankalpcb007/springdeploy
           registry: docker.io
           dockerfile: Dockerfile
+          tags: main-ef410ef
           username: ${{secrets.DOCKER_USERNAME}}
           password: ${{secrets.DOCKER_PASSWORD}}
-
