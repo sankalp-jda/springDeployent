@@ -72,7 +72,7 @@
 <!--    </dependencyManagement>-->
 
     <build>
-        <outputDirectory>target/classes</outputDirectory>
+        <outputDirectory>target</outputDirectory>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
